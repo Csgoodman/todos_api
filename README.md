@@ -6,6 +6,9 @@ The Todo API and TodoList application is a single page application that utilizes
 ## Project Details
 The purpose of this project was less about functionality and more to dive deeper into different packages, libraries, and frameworks. I utilized and created my own JSON API as well as a number of technologies including: node.js, express, mongoose, jQuery, and mongoDB. The idea for this project came from Colt Steele's Udemy course. It's important to note that this project was built on AWS Cloud9, with certain changes meant to accomodate that environment.
 
+## API Routes
+<img width="1341" alt="Screen Shot 2020-12-06 at 10 51 43 PM" src="https://user-images.githubusercontent.com/62860153/101318777-b6f65e00-3815-11eb-806d-9d0402b2370d.png">
+
 ## Prerequisites
 Before continuing, ensure you have installed the following:
 * [Node.js & npm](https://www.npmjs.com/get-npm)
